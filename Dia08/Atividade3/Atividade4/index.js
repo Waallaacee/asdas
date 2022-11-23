@@ -1,0 +1,7 @@
+a = prompt("Digite um numero")
+if(a <= 25)
+    alert ("jovem")
+    else if(a == 40)
+    alert("Meio Termo")
+    else if (a >= 80)
+    alert("Idoso")
